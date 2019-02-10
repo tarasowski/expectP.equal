@@ -1,12 +1,16 @@
 {
-  "name": "asyncexpect",
-  "version": "0.0.1",
-  "description": "",
+  "name": "expectp.equal",
+  "version": "0.0.2",
+  "description": "Test your promises and nothing else",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarasowski/expectp.equal.git"
+  },
   "author": "Dimitri Tarasowski <dimitri+npm@tarasowski.de>",
   "license": "ISC",
   "dependencies": {
