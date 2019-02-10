@@ -1,10 +1,10 @@
 {
   "name": "expectp.equal",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Test your promises and nothing else",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.test.js"
   },
   "keywords": [],
   "repository": {
